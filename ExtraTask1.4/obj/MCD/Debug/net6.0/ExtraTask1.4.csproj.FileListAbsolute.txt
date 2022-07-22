@@ -1,0 +1,15 @@
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\bin\MCD\Debug\net6.0\ExtraTask1.4.exe
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\bin\MCD\Debug\net6.0\ExtraTask1.4.deps.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\bin\MCD\Debug\net6.0\ExtraTask1.4.runtimeconfig.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\bin\MCD\Debug\net6.0\ExtraTask1.4.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\bin\MCD\Debug\net6.0\ExtraTask1.4.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.csproj.AssemblyReference.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.AssemblyInfoInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.AssemblyInfo.cs
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.csproj.CoreCompileInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\refint\ExtraTask1.4.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ExtraTask1.4.genruntimeconfig.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220716 Семинар 3\CSharpHomeWork3\ExtraTask1.4\obj\MCD\Debug\net6.0\ref\ExtraTask1.4.dll
